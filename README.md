@@ -1,1 +1,1 @@
-# FinanceTracker
+# BudgetSense-Finance-Tracker
